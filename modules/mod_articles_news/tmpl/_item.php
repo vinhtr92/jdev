@@ -8,17 +8,19 @@
  */
 
 defined('_JEXEC') or die;
-?>
-<?php $imageObj = json_decode($item->images);
+$imageObj = json_decode($item->images);
 		$introImage = isset($imageObj->{'image_intro'}) ? $imageObj->{'image_intro'} : '';
+?>
+
+
 
 	
-		if ($params->get('image')) {
-			?>
+		<?php if ($params->get('image')) : ?> 
+			
 				<img src="<?php echo $introImage; ?>" alt="<?php echo $introImage ?>" />
-			<?php 
-			}
-	?>
+		<?php endif ?>
+			
+	
 
 <?php if ($params->get('item_title')) : ?>
 	<?php $item_heading = $params->get('item_heading', 'h4'); ?>
