@@ -9,6 +9,17 @@
 
 defined('_JEXEC') or die;
 ?>
+<?php $imageObj = json_decode($item->images);
+		$introImage = isset($imageObj->{'image_intro'}) ? $imageObj->{'image_intro'} : '';
+
+	
+		if ($params->get('image')) {
+			?>
+				<img src="<?php echo $introImage; ?>" alt="<?php echo $introImage ?>" />
+			<?php 
+			}
+	?>
+
 <?php if ($params->get('item_title')) : ?>
 	<?php $item_heading = $params->get('item_heading', 'h4'); ?>
 	<<?php echo $item_heading; ?> class="newsflash-title<?php echo $params->get('moduleclass_sfx'); ?>">
