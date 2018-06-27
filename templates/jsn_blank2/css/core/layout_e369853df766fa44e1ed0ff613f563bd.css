@@ -1,0 +1,31 @@
+@media (min-width: 768px) {
+  .sunfw-content {
+    max-width: 1140px;
+    margin: auto;
+  }
+  .sunfw-content .container {
+    max-width: 100% !important;
+  }
+}
+@media (max-width: 1024px) {
+  .sunfw-content .container {
+    max-width: 100% !important;
+  }
+}
+#sunfw_section_header {
+  padding-top: 34px;
+}
+#sunfw_section_component {
+  padding-top: 34px;
+}
+#sunfw_section_footer {
+  margin-top: 30px;
+}
+#row_row-12 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#column_column-15 {
+  padding-top: 60px;
+  padding-bottom: 65px;
+}

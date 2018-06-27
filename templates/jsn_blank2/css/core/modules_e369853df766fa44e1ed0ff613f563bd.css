@@ -1,0 +1,102 @@
+body#sunfw-master .module-style-1 {
+  background: #47bbff;
+}
+body#sunfw-master .module-style-1 .module-title .box-title {
+  background: #47bbff;
+  font-size: 14px;
+  color: #47bbff;
+  font-weight: normal;
+}
+body#sunfw-master .module-style-1 .module-title .box-title:before, body#sunfw-master .module-style-1 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-1 .module-body, body#sunfw-master .module-style-1 .custom {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-2 {
+  background: #47bbff;
+}
+body#sunfw-master .module-style-2 .module-title .box-title {
+  background: #47bbff;
+  font-size: 14px;
+  color: #47bbff;
+  font-weight: normal;
+}
+body#sunfw-master .module-style-2 .module-title .box-title:before, body#sunfw-master .module-style-2 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-2 .module-body, body#sunfw-master .module-style-2 .custom {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-3 {
+  background: #47bbff;
+}
+body#sunfw-master .module-style-3 .module-title .box-title {
+  background: #47bbff;
+  font-size: 14px;
+  color: #47bbff;
+  font-weight: normal;
+}
+body#sunfw-master .module-style-3 .module-title .box-title:before, body#sunfw-master .module-style-3 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-3 .module-body, body#sunfw-master .module-style-3 .custom {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-4 {
+  background: #47bbff;
+}
+body#sunfw-master .module-style-4 .module-title .box-title {
+  background: #47bbff;
+  font-size: 14px;
+  color: #47bbff;
+  font-weight: normal;
+}
+body#sunfw-master .module-style-4 .module-title .box-title:before, body#sunfw-master .module-style-4 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .module-style-4 .module-body, body#sunfw-master .module-style-4 .custom {
+  color: #47bbff;
+}
+body#sunfw-master .richbox-1 {
+  background: custom;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d1d6de;
+}
+body#sunfw-master .richbox-1 .module-title .box-title {
+  background: #717f8e;
+  font-size: 18px;
+  color: #fff;
+  font-weight: normal;
+}
+body#sunfw-master .richbox-1 .module-title .box-title:before, body#sunfw-master .richbox-1 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .richbox-2 {
+  background: custom;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d1d6de;
+}
+body#sunfw-master .richbox-2 .module-title .box-title {
+  background: #00a0ff;
+  font-size: 18px;
+  color: #fff;
+  font-weight: normal;
+}
+body#sunfw-master .richbox-2 .module-title .box-title:before, body#sunfw-master .richbox-2 .module-title .box-title i[class*='fa-'] {
+  color: #47bbff;
+}
+body#sunfw-master .lightbox-1 {
+  background: custom;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d1d6de;
+}
+body#sunfw-master .lightbox-2 {
+  background: custom;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d1d6de;
+}

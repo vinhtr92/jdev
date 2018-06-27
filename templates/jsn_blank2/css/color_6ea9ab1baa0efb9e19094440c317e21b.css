@@ -1,0 +1,59 @@
+/* ============================ */
+.sunfw-content .main-color {
+  color: #ff5c06;
+}
+.sunfw-content .bg-main-color {
+  background: #ff5c06;
+}
+ul.newsfeed li, ul.archive-module li, ul.relateditems li, ul.categories-module li, ul.category-module li, ul.mostread li, ul.latestnews li, ul.latestusers li {
+  color: #ff5c06;
+}
+ul.newsfeed li a *, ul.archive-module li a *, ul.relateditems li a *, ul.categories-module li a *, ul.category-module li a *, ul.mostread li a *, ul.latestnews li a *, ul.latestusers li a * {
+  color: #ff5c06;
+}
+ul.categories-module ul li {
+  color: #ff5c06;
+}
+.item-page.edit #com-content-formTabs > li.active > a:hover, .item-page.edit #com-content-formTabs > li.active > a {
+  border-top-color: #ff5c06;
+}
+.label-info[href]:hover, .label-info[href]:focus, .content_rating + form input[name="submit_vote"] {
+  background: #ff5c06;
+}
+ul.nav[class*='menu-treemenu'] li a:hover {
+  color: #ff5c06;
+}
+.color-img img {
+  background-color: #ff5c06;
+}
+.bg-main-color .jsn-es-background {
+  background-color: #ff5c06 !important;
+}
+ul.nav[class*='menu-treemenu'] li.active > a, ul.nav[class*='menu-treemenu'] li.current > a, ul.nav[class*='menu-treemenu'] li.active > span.nav-header, ul.nav[class*='menu-treemenu'] li.current > span.nav-header {
+  color: #ff5c06;
+}
+ul.nav[class*='menu-sidemenu'] li:hover > a, ul.nav[class*='menu-sidemenu'] li:hover > span.nav-header, ul.nav[class*='menu-sidemenu'] li:hover > span.separator {
+  color: #ff5c06;
+}
+ul.nav[class*='menu-sidemenu'] li.active > a, ul.nav[class*='menu-sidemenu'] li.active > span.nav-header, ul.nav[class*='menu-sidemenu'] li.active > span.separator {
+  color: #ff5c06 !important;
+}
+ul.nav.menu li a:hover, .btn.btn-plain:hover {
+  color: #ff5c06;
+}
+.bg-2nd-subcolor {
+  background-color: #604d3b;
+}
+.sunfw-scrollup:hover {
+  background-color: #918274;
+}
+nav.navbar.sunfw-menu-head ul.navbar-nav > li:hover > a, nav.navbar.sunfw-menu-head ul.navbar-nav > li.active > a, nav.navbar.sunfw-menu-head ul.navbar-nav > li:hover > span.nav-header, nav.navbar.sunfw-menu-head ul.navbar-nav > li.active > span.nav-header {
+  color: #ff5c06;
+}
+/* ============================ Sub Color ============================ */
+.nav[class*='menu-'] li a.get-it.btn-primary:hover {
+  background-color: rgba(255, 92, 6, 0.8);
+}
+nav.navbar.sunfw-menu-head ul.navbar-nav > li > a.get-it.btn-primary:hover, nav.navbar.sunfw-menu-head ul.navbar-nav > li > a.get-it.btn-primary:focus {
+  background-color: rgba(255, 92, 6, 0.8);
+}
